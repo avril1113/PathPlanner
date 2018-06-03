@@ -27,8 +27,8 @@ public class Main {
     public static Vector selection = new Vector();
     public static List<String> excludedCities = new ArrayList<>();
     public static LinkedList<City> path;
-    public static JFrame frame = new JFrame("Project 1");
-    public static JFrame frame2 = new JFrame("Project 1");
+    public static JFrame frame = new JFrame("Path Planner");
+    public static JFrame frame2 = new JFrame("Path Planner");
 
     public static void main(String[] args) {
         // let users enter inputs
